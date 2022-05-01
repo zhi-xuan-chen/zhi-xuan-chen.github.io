@@ -1,2 +1,2 @@
-# zhi-xuan-chen.github.io
-This is a personal site for Zhi-Xuan Chen
+# My Homepage
+This is the personal homepage of Zhi-Xuan Chen(陈芝漩).
