@@ -46,7 +46,7 @@ function toggleBibtex(articleid) {
 ​	
 ### Biography
 
-| <br>**Zhi-Xuan Chen（陈芝漩）** is a senior student majoring in Mathematics and Physics Basic Science in [College of Optoelectronic Science and Engineering (光电科学与工程学院)](https://sose.uestc.edu.cn/index.htm/), <a href="https://www.uestc.edu.cn/">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a>, Hong Kong University of Science and Technology (HKUST).  <br> <br> **Email：** <zhixuan_chen2022@163.com> <br><br>|  ![image](http://zhi-xuan-chen.github.io/zhixuan-chen.jpg)|
+| <br>**Zhi-Xuan Chen（陈芝漩）** is a junior student majoring in Optoelectronic Information Science and Engineering in [College of Optoelectronic Science and Engineering (光电科学与工程学院)](https://sose.uestc.edu.cn/index.htm/), <a href="https://www.uestc.edu.cn/">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a>, Hong Kong University of Science and Technology (HKUST).  <br> <br> **Email：** <zhixuan_chen2022@163.com> <br><br>|  ![image](http://zhi-xuan-chen.github.io/zhixuan-chen.jpg)|
 
 
 
