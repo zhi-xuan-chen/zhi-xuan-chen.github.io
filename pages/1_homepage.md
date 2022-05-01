@@ -47,7 +47,7 @@ function toggleBibtex(articleid) {
 ​	
 ### Biography
 
-| <br>**Zhi-Xuan Chen（陈芝漩）** is a senior student majoring in Mathematics and Physics Basic Science in [Yingcai Honors College (英才实验学院)](https://www.yingcai.uestc.edu.cn/), <a href="https://www.uestc.edu.cn/">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>, National University of Singapore (NUS).  <br> <br> **Email：** <zhangtianjinguestc@163.com> <br><br>|  ![image](D:\AI\My_Code\zhi-xuan-chen.github.io\zhixuan-chen.jpg)|
+| <br>**Zhi-Xuan Chen（陈芝漩）** is a senior student majoring in Mathematics and Physics Basic Science in [Yingcai Honors College (英才实验学院)](https://www.yingcai.uestc.edu.cn/), <a href="https://www.uestc.edu.cn/">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>, National University of Singapore (NUS).  <br> <br> **Email：** <zhangtianjinguestc@163.com> <br><br>|  ![image](http://zhi-xuan-chen.github.io/zhixuan-chen.jpg)|
 
 
 
