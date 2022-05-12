@@ -62,10 +62,11 @@ function toggleBibtex(articleid) {
 
 * National Scholarship, 2020 and 2021
 * Outstanding Students’ Scholarship of UESTC, 2020 and 2021
+* Metritorious Winners, _American Mathematical Contest In Modeling_, 2022
 * First Prize in China, _China Undergraduate Optoelectronic Design Competition_, 2021
-* Third Prize in China, _China Undergraduate Optoelectronic Design Competition_, 2020
 * Honorable Mention, _American Mathematical Contest In Modeling_, 2021
 * First Prize in Sichuan Province, _China Undergraduate Mathematical Contest in Modeling_, 2021
+* Third Prize in China, _China Undergraduate Optoelectronic Design Competition_, 2020
 
 
 
