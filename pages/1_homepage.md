@@ -53,9 +53,9 @@ function toggleBibtex(articleid) {
 
 <br> <br> **Email：**<zhixuan_chen2022@163.com> <br>
 
-**Follow Me：**<a href="/">Google Scholar</a>	<a href="https://github.com/zhi-xuan-chen/">Github</a>
+**Follow Me：**<a href="/">Google Scholar</a>		<a href="https://github.com/zhi-xuan-chen/">Github</a>
 
-<br>|    <img src="http://zhi-xuan-chen.github.io/images/zhixuan-chen.jpg" width='950'>|
+<br>|    &emsp;![image](http://zhi-xuan-chen.github.io/images/zhixuan-chen.jpg)|
 
 
 
