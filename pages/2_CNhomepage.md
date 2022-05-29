@@ -56,7 +56,7 @@ function toggleBibtex(articleid) {
 
 **Zhi-Xuan Chen（陈芝漩）**目前是一名就读于 <a href="https://www.uestc.edu.cn/">电子科技大学 (UESTC)</a>，[ 光电科学与工程学院 (College of Optoelectronic Science and Engineering)](https://sose.uestc.edu.cn/index.htm/) 的大三本科生，专业方向为光电信息科学与工程，由<a href="https://liangjiandeng.github.io/" > 邓良剑研究员</a>指导。他将前往<a href="[主页 | 香港科技大学 (hkust.edu.hk)](https://hkust.edu.hk/zh-hans/home)/">香港科技大学 (HKUST)</a>，<a href="https://cse.hkust.edu.hk/">计算机科学与工程系(Department of Computer Science and Engineering)</a> 继续攻读他的博士学位。他的研究兴趣包括机器视觉、深度学习，现在他的研究方向主要是人工智能医学图像分析。
 
-<br> <br> **电子邮箱：**zhixuan_chen2022@163.com <br> **关注我：** <a href="/">Google Scholar</a>	<a href="https://github.com/zhi-xuan-chen/">Github</a> <br><br>|    <img src="http://zhi-xuan-chen.github.io/image/zhixuan-chen.jpg" width='950'>|
+<br> <br> **电子邮箱：**zhixuan_chen2022@163.com <br> **关注我：** <a href="/">Google Scholar</a>	<a href="https://github.com/zhi-xuan-chen/">Github</a> <br><br>|    <img src="http://zhi-xuan-chen.github.io/images/zhixuan-chen.jpg" width='950'>|
 
 
 
@@ -116,7 +116,7 @@ year = {2022},
 
 ---
 
-若想要了解更多信息，请参考我的<a href="https://zhi-xuan-chen.github.io/CN_CV.pdf">简历</a>（<a href="https://zhi-xuan-chen.github.io/CV.pdf">resumé</a>）。
+若想要了解更多信息，请参考我的<a href="https://zhi-xuan-chen.github.io/CN_CV.pdf">简历</a>（<a href="https://zhi-xuan-chen.github.io/cv.pdf">resumé</a>）。
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=573geowbknl&amp;m=7&amp;c=ffc000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170&amp;bv=70" async="async"></script>
 

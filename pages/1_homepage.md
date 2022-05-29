@@ -51,9 +51,9 @@ function toggleBibtex(articleid) {
 
 | <br>**Zhi-Xuan Chen（陈芝漩）** is a junior student majoring in Optoelectronic Information Science and Engineering in [College of Optoelectronic Science and Engineering (光电科学与工程学院)](https://sose.uestc.edu.cn/index.htm/), <a href="https://www.uestc.edu.cn/">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a>, Hong Kong University of Science and Technology (HKUST).  
 
-<br> <br> **Email:** <zhixuan_chen2022@163.com> <br>
+<br> <br> **Email：**<zhixuan_chen2022@163.com> <br>
 
-**Follow Me:**<a href="/">Google Scholar</a>	<a href="https://github.com/zhi-xuan-chen/">Github</a>
+**Follow Me：**<a href="/">Google Scholar</a>	<a href="https://github.com/zhi-xuan-chen/">Github</a>
 
 <br>|    <img src="http://zhi-xuan-chen.github.io/images/zhixuan-chen.jpg" width='950'>|
 
@@ -108,7 +108,7 @@ year = {2022},
 
 ---
 
-For more information, please refer to my <a href="http://zhi-xuan-chen.github.io/CV.pdf">resumé</a>（<a href="http://zhi-xuan-chen.github.io/CN_CV.pdf">简历</a>）.
+For more information, please refer to my <a href="http://zhi-xuan-chen.github.io/cv.pdf">resumé</a>（<a href="http://zhi-xuan-chen.github.io/CN_CV.pdf">简历</a>）.
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=573geowbknl&amp;m=7&amp;c=ffc000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170&amp;bv=70" async="async"></script>
