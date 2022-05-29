@@ -55,7 +55,7 @@ function toggleBibtex(articleid) {
 
 **Follow Me：**[Goolge Scholar](https://github.com/zhi-xuan-chen)&emsp;&emsp; [Github](https://github.com/zhi-xuan-chen)
 
-<br>|   ![image](http://zhi-xuan-chen.github.io/images/zhixuan-chen.jpg)|
+<br>|   <img src="http://zhi-xuan-chen.github.io/images/zhixuan-chen.jpg" width='200'>|
 
 
 
