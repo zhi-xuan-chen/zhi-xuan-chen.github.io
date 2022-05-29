@@ -1,3 +1,3 @@
 # My Homepage
 
-This is the personal [homepage](zhi-xuan-chen.github.io) of Zhi-Xuan (陈芝漩).
+This is the personal [homepage](https://zhi-xuan-chen.github.io/homepage/) of Zhi-Xuan (陈芝漩).

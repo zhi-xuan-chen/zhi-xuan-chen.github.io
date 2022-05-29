@@ -55,7 +55,7 @@ function toggleBibtex(articleid) {
 
 **Follow Me:**<a href="/">Google Scholar</a>	<a href="https://github.com/zhi-xuan-chen/">Github</a>
 
-<br>|    <img src="http://zhi-xuan-chen.github.io/image/zhixuan-chen.jpg" width='950'>|
+<br>|    <img src="http://zhi-xuan-chen.github.io/images/zhixuan-chen.jpg" width='950'>|
 
 
 
@@ -108,7 +108,7 @@ year = {2022},
 
 ---
 
-For more information, please refer to my <a href="https://zhi-xuan-chen.github.io/CV.pdf">resumé</a>（<a href="https://zhi-xuan-chen.github.io/CN_CV.pdf">简历</a>）.
+For more information, please refer to my <a href="http://zhi-xuan-chen.github.io/CV.pdf">resumé</a>（<a href="http://zhi-xuan-chen.github.io/CN_CV.pdf">简历</a>）.
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=573geowbknl&amp;m=7&amp;c=ffc000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170&amp;bv=70" async="async"></script>
